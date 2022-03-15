@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="C:\Users\pushya\OneDrive\Desktop\folders\class docs\adevs\swiggy folder\style.css">
+    <title>Swiggy</title>
+</head>
+<body>
+    <div class="login-container">
+        <div class="login">
+            <div class="login-nav-container">
+                <div class="login-nav">
+                    <div>
+                        <img src="file:///C:/Users/pushya/OneDrive/Desktop/folders/class%20docs/adevs/img/navLogo.png" alt="nav-logo" width="200" >
+                    </div>
+                    <div>
+                        <button class="button"><a href="#">Login</a></button>
+                        <button class="button"><a href="#" style="color: white;">Signup</a></button>
+                    </div>
+                </div>
+            </div>
+            <div class="login-heading-container">
+            <div class="login-heading">
+                <div>
+                    <h1>Game Night?</h1>
+                </div>
+                <div>
+                    <p>Order food from favorite restaurants near you .</p>
+                </div>
+            </div>
+            </div>
+            <div>
+                <label for="">
+                    <input type="text" placeholder="Enter your delivery location">
+                </label>
+                <button>Locate Me</button>
+            </div>
+        </div>
+
+        <div class="login-aside">
+        
+        </div>
+    </div>
+    <div class="process">
+
+    </div>
+    <div class="banner">
+
+    </div>
+    <footer>
+
+    </footer>
+    
+</body>
+</html>
