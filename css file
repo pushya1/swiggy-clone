@@ -1,0 +1,88 @@
+*{
+    margin:0px;
+    padding: 0px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.login-container{
+    width: 100vw;
+    height: 80vh;
+    
+    display: flex;
+}
+
+.login{
+    width: 55vw;
+    height: 80vh;
+}
+
+.login-nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 8vh;
+    margin-left: 4vw;
+    padding: 0px 25px;
+
+}
+.login-heading{
+    margin-top: 6vh;
+    margin-left: 4vw;
+    color: rgb(52,52,52);
+}
+
+.login-heading>div:nth-child(1)
+{
+    font-size: 40px;
+}
+.login-heading>div:nth-child(2)
+{
+    font-size: 30px;
+
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+.button{
+    border: none;
+    background: none;
+    color: black;
+    padding: 10px 40px;
+    font-weight: 600;
+}
+
+.button:hover{
+    color: orange;
+}
+.button:last-child{
+    background: black;
+    color : white;
+    
+}
+
+.login-aside{
+    width: 45vw;
+    height: 80vh;
+    background-color: black;
+    background: url(file:///C:/Users/pushya/OneDrive/Desktop/folders/class%20docs/adevs/img/login-aside.jpeg);
+    background-size: cover;
+}
+
+.process{
+    width:100vw;
+    height: 60vh;
+    background-color: #2B1e16;
+}
+
+.banner{
+    width: 100vw;
+    height: 85vh;
+    background-color: green;
+}
+
+footer{
+    width: 100vw;
+    height: 80vh;
+    background-color: #000;
+}
